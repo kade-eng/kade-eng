@@ -18,7 +18,7 @@
   
     </td>
     <td width="50%" align="center">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kade-eng&langs_count_private=true&theme=radical&card_width=445)<br><br>
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kade-eng&langs_count_private=true&theme=radical&card_width=445)
     </td>
   </tr>
 </table>
