@@ -44,10 +44,6 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
       alt="python"/> 
   </a>
-  <a href="https://developer.android.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
-      alt="android"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -60,9 +56,53 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
+  <a href="https://www.redhat.com/en/topics/automation/what-is-yaml" target="_blank"> 
+    <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515"
+      alt="YAML"/>
+  </a>
+</p>
+
+<h3 align="center">Cloud Providers</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> 
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="aws"/>
+  </a>
+  <a href="https://cloud.google.com/?hl=en" target="_blank"> 
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" 
+      alt="gcp"/> 
+  </a>
+</p>
+
+<h3 align="center">Operating Systems</h3>
+<p align="center">
+  <a href="https://www.android.com/intl/en_ca/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+      alt="android"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"
+      alt="debian"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="linux"/>
+  </a>
+  <a href="https://support.apple.com/en-ca/macos" target="_blank"> 
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"
+      alt="macos"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+      alt="ubuntu"/>
+  </a>
+  <a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
+      alt="windows"/>
+  </a>
+  <a href="" target="_blank"> 
+    <img src=""
+      alt="debian"/>
   </a>
 </p>
 
