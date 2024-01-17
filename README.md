@@ -16,7 +16,7 @@
   
 - 💬 Ask me about **My website project and interest in DevOps**
   
-- 📫 How to reach me **kade.w.bc@gmail.com**
+- 📫 How to reach me **Send me a message on LinkedIn or an email at kade.w.bc@gmail.com**
 
 - ⚡ Fun fact **I'm a big F1 fan!**
 </td>
