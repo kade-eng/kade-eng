@@ -56,6 +56,10 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="shell"/>
+  </a>
   <a href="https://www.redhat.com/en/topics/automation/what-is-yaml" target="_blank"> 
     <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515"
       alt="YAML"/>
@@ -100,9 +104,46 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
       alt="windows"/>
   </a>
-  <a href="" target="_blank"> 
-    <img src=""
-      alt="debian"/>
+</p>
+
+<h3 align="center">Containerization</h3>
+<p align="center">
+  <a href="https://kubernetes.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+      alt="kubernetes"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
   </a>
 </p>
+
+<h3 align="center">Other</h3>
+<p align="center">
+  <a href="https://www.terraform.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
+      alt="terraform"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"
+      alt="grafana"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"
+      alt="prometheus"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+      alt="jira"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
+    <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"
+      alt="confluence"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="pytorch"/>
+  </a>
+</p>
+
 
