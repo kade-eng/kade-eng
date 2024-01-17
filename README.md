@@ -7,7 +7,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
 - 🌱 I’m currently learning **How to deploy a static website using GCS**
   
 - 🧑‍🎓 I’m an Undergraduate at the **University of Guelph**
@@ -17,7 +16,6 @@
 - 📫 How to reach me **kade.w.bc@gmail.com**
 
 - ⚡ Fun fact **I'm a big F1 fan!**
-
 </td>
 <td width="50%" align="center">
 
