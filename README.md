@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **How to deploy a static website using GCS**
   
-- 🧑‍🎓 I’m an Undergraduate at the **University of Guelph**
+- 🧑‍🎓 I’m an recent graduate from the **University of Guelph**
   
 - 💬 Ask me about **My website project and interest in DevOps**
   
