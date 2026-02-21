@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kade Burfoot-Clark</h1>
 <h3 align="center">Computer Engineering Graduate | DevOps/SRE Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kade-eng&label=Profile%20views&color=0e75b6&style=flat" alt="kade-eng" /> </p>
-
 <br>
----
 
 <h3 align="center">Languages</h3>
 <p align="center">
